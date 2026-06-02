@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bima</h1>
 
 <p align="center">
-  <strong>Computer Engineering Student | Linux & Systems Enthusiast</strong>
+  <strong>Computer Engineering Technology Student | Linux & Systems Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 I'm a Computer Engineering student who enjoys building practical tech solutions, breaking problems down, and learning how systems work under the hood.
 
-- Studying **Computer Engineering**
+- Studying **Computer Engineering Technology**
 - Interested in **programming, networking, and system development**
 - Exploring **Linux, custom ROMs, server setup, DevOps, and cybersecurity**
 - Focused on building **reliable tools, useful systems, and clean workflows**
