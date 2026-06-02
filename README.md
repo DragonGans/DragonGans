@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bima</h1>
+<h1 align="center">Hi, I'm Bima Apriliansyah</h1>
 
 <p align="center">
   <strong>Computer Engineering Technology Student | Linux & Systems Enthusiast</strong>
@@ -10,6 +10,9 @@
   </a>
   <a href="https://instagram.com/ryoooo_1221">
     <img src="https://img.shields.io/badge/Instagram-ryoooo__1221-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@ryoo1221">
+    <img src="https://img.shields.io/badge/TikTok-ryoo1221-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://www.linkedin.com/in/bima-apriliansyah-813718409/">
     <img src="https://img.shields.io/badge/LinkedIn-Bima%20Apriliansyah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -66,27 +69,6 @@ System Exploration      Custom ROMs, terminal workflows, and practical tools
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DragonGans&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/DragonGans">
-    <img src="https://img.shields.io/badge/GitHub-DragonGans-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/ryoooo_1221">
-    <img src="https://img.shields.io/badge/Instagram-ryoooo__1221-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/bima-apriliansyah-813718409/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bima%20Apriliansyah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@zerone.ryoo1221">
-    <img src="https://img.shields.io/badge/YouTube-zerone.ryoo1221-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
-
----
 
 ## Motto
 
