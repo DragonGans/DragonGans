@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Instagram-ryoooo__1221-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@ryoo1221">
-    <img src="https://img.shields.io/badge/TikTok-ryoo1221-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-ryoo1221-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></br>
   </a>
   <a href="https://www.linkedin.com/in/bima-apriliansyah-813718409/">
     <img src="https://img.shields.io/badge/LinkedIn-Bima%20Apriliansyah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
